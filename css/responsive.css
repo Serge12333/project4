@@ -216,7 +216,7 @@
   }
 
   .resp-menu-sticky {
-    background-color: rgba(87, 163, 226, 0.158);
+    background-color: rgb(236, 247, 255);
     z-index: 2;
     position: fixed;
     top: 0;
